@@ -1,0 +1,5 @@
+
+
+1. Bikin data dummy -> tmdb
+2. membuat cara untuk mengambil data dari data dummy -> data source
+3. data nya kita taruh / passing ke dalam adapter
